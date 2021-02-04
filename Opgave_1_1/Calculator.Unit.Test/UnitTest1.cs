@@ -1,5 +1,6 @@
 using System.Runtime.InteropServices.ComTypes;
 using NUnit.Framework;
+//En lille kommentar
 
 namespace Calculator.Unit.Test
 {
