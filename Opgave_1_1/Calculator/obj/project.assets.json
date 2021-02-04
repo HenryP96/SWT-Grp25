@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Lucas\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Henry\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\GFV1\\SWT-Grp25\\Opgave_1_1\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Henry\\Documents\\GitHub\\SWT-Grp25\\Opgave_1_1\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\Lucas\\Desktop\\GFV1\\SWT-Grp25\\Opgave_1_1\\Calculator\\Calculator.csproj",
-      "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucas\\Desktop\\GFV1\\SWT-Grp25\\Opgave_1_1\\Calculator\\obj\\",
+      "projectPath": "C:\\Users\\Henry\\Documents\\GitHub\\SWT-Grp25\\Opgave_1_1\\Calculator\\Calculator.csproj",
+      "packagesPath": "C:\\Users\\Henry\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Henry\\Documents\\GitHub\\SWT-Grp25\\Opgave_1_1\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
